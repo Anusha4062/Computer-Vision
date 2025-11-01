@@ -1,0 +1,14 @@
+DATASET VALIDATION SUMMARY
+==================================================
+
+FILE INTEGRITY:
+  Total files: 5
+  Valid images: 5
+  Corrupted files: 0
+  Duplicate files: 0
+
+DATASET DISTRIBUTION:
+  Total images: 0
+  Structure type: flat_structure
+
+RECOMMENDATIONS:

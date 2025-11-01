@@ -1,0 +1,74 @@
+{
+    "dataset_path": "img",
+    "validation_timestamp": "2025-09-05T13:16:58.341321",
+    "file_integrity": {
+        "total_files": 5,
+        "valid_images": 5,
+        "corrupted_files": [],
+        "unreadable_files": [],
+        "invalid_extensions": [],
+        "duplicate_files": [],
+        "size_issues": []
+    },
+    "image_quality": {
+        "resolution_analysis": {
+            "width": [
+                337,
+                1608,
+                1024,
+                900,
+                640
+            ],
+            "height": [
+                336,
+                1608,
+                538,
+                484,
+                480
+            ],
+            "aspect_ratios": [
+                1.0029761904761905,
+                1.0,
+                1.903345724907063,
+                1.859504132231405,
+                1.3333333333333333
+            ]
+        },
+        "channel_analysis": {
+            "rgb": 5,
+            "grayscale": 0,
+            "other": 0
+        },
+        "brightness_stats": [
+            104.88590681079553,
+            88.12086450521026,
+            97.33651290950279,
+            81.04883838383839,
+            207.06139322916667
+        ],
+        "contrast_stats": [
+            31.118289347999458,
+            42.304164998325554,
+            59.237972433527524,
+            48.119092317733966,
+            87.35461553100288
+        ],
+        "blur_scores": [
+            2815.884242298562,
+            106.54094204585466,
+            524.6581179264217,
+            1294.0369373868705,
+            4998.904576822917
+        ],
+        "quality_issues": []
+    },
+    "distribution_analysis": {
+        "folder_structure": {},
+        "class_distribution": {},
+        "split_analysis": {},
+        "imbalance_metrics": {},
+        "total_images": 0,
+        "structure_type": "flat_structure"
+    },
+    "recommendations": []
+}

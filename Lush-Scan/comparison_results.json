@@ -1,0 +1,18 @@
+[
+    {
+        "dataset_name": "Original (4 images)",
+        "dataset_size": 4,
+        "feature_count": 34,
+        "accuracy": 0.0,
+        "train_samples": 2,
+        "test_samples": 2
+    },
+    {
+        "dataset_name": "Augmented Dataset",
+        "dataset_size": 36,
+        "feature_count": 34,
+        "accuracy": 0.6363636363636364,
+        "train_samples": 25,
+        "test_samples": 11
+    }
+]

@@ -1,0 +1,9 @@
+{
+    "total_images": 36,
+    "feature_count": 80,
+    "test_accuracy": 0.5454545454545454,
+    "class_distribution": {
+        "deforested": 18,
+        "non_deforested": 18
+    }
+}

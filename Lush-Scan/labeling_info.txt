@@ -1,0 +1,43 @@
+Image Labeling Information
+==================================================
+AUTO: image1_aug_00.jpg -> NON-DEFORESTED (alternating pattern)
+AUTO: image1_aug_01.jpg -> DEFORESTED (alternating pattern)
+AUTO: image1_aug_02.jpg -> NON-DEFORESTED (alternating pattern)
+AUTO: image1_aug_03.jpg -> DEFORESTED (alternating pattern)
+AUTO: image1_aug_04.jpg -> NON-DEFORESTED (alternating pattern)
+AUTO: image1_aug_05.jpg -> DEFORESTED (alternating pattern)
+AUTO: image1_aug_06.jpg -> NON-DEFORESTED (alternating pattern)
+AUTO: image1_aug_07.jpg -> DEFORESTED (alternating pattern)
+AUTO: image1_original.jpg -> NON-DEFORESTED (alternating pattern)
+AUTO: image3_aug_00.jpg -> DEFORESTED (alternating pattern)
+AUTO: image3_aug_01.jpg -> NON-DEFORESTED (alternating pattern)
+AUTO: image3_aug_02.jpg -> DEFORESTED (alternating pattern)
+AUTO: image3_aug_03.jpg -> NON-DEFORESTED (alternating pattern)
+AUTO: image3_aug_04.jpg -> DEFORESTED (alternating pattern)
+AUTO: image3_aug_05.jpg -> NON-DEFORESTED (alternating pattern)
+AUTO: image3_aug_06.jpg -> DEFORESTED (alternating pattern)
+AUTO: image3_aug_07.jpg -> NON-DEFORESTED (alternating pattern)
+AUTO: image3_original.jpg -> DEFORESTED (alternating pattern)
+AUTO: image4_aug_00.jpg -> NON-DEFORESTED (alternating pattern)
+AUTO: image4_aug_01.jpg -> DEFORESTED (alternating pattern)
+AUTO: image4_aug_02.jpg -> NON-DEFORESTED (alternating pattern)
+AUTO: image4_aug_03.jpg -> DEFORESTED (alternating pattern)
+AUTO: image4_aug_04.jpg -> NON-DEFORESTED (alternating pattern)
+AUTO: image4_aug_05.jpg -> DEFORESTED (alternating pattern)
+AUTO: image4_aug_06.jpg -> NON-DEFORESTED (alternating pattern)
+AUTO: image4_aug_07.jpg -> DEFORESTED (alternating pattern)
+AUTO: image4_original.jpg -> NON-DEFORESTED (alternating pattern)
+AUTO: image2_aug_00.jpeg -> DEFORESTED (alternating pattern)
+AUTO: image2_aug_01.jpeg -> NON-DEFORESTED (alternating pattern)
+AUTO: image2_aug_02.jpeg -> DEFORESTED (alternating pattern)
+AUTO: image2_aug_03.jpeg -> NON-DEFORESTED (alternating pattern)
+AUTO: image2_aug_04.jpeg -> DEFORESTED (alternating pattern)
+AUTO: image2_aug_05.jpeg -> NON-DEFORESTED (alternating pattern)
+AUTO: image2_aug_06.jpeg -> DEFORESTED (alternating pattern)
+AUTO: image2_aug_07.jpeg -> NON-DEFORESTED (alternating pattern)
+AUTO: image2_original.jpeg -> DEFORESTED (alternating pattern)
+
+Summary:
+Total images: 36
+Deforested: 18
+Non-deforested: 18

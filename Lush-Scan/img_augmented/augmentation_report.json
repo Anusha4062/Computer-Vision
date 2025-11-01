@@ -1,0 +1,19 @@
+{
+    "augmentation_settings": {
+        "output_multiplier": 8,
+        "pipeline_steps": [
+            "Geometric transformations (rotation, flip)",
+            "Color adjustments (brightness, contrast, gamma)",
+            "Noise and blur simulation",
+            "Elastic transformations",
+            "Weather simulation",
+            "Cutout for robustness"
+        ]
+    },
+    "statistics": {
+        "original_images": 1,
+        "augmented_images": 8,
+        "total_images": 9,
+        "expansion_factor": 9.0
+    }
+}
